@@ -1,3 +1,4 @@
+///https://codeforces.com/contest/35/problem/C
 #include<bits/stdc++.h>
 using namespace std;
 queue<pair<long long,long long>>q;
